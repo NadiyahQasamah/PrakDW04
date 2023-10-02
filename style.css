@@ -1,0 +1,44 @@
+body {
+    font-size: 15px;
+    background-color: rgb(255, 192, 228);
+}
+header {
+    margin: 0;
+}
+.topNavbar{
+    position: relative;
+}
+.SecondNavigation{
+    top: 100px;
+    width: 200px;
+    margin: 10px;
+    height: 100px;
+}
+.SubNav{
+    width: 200px;
+    margin: 5px;
+    position: relative;
+}
+.container {
+    position: absolute;
+    left: 700px;
+    bottom: 80px;
+}
+.isi {
+    box-sizing: border-box;
+    background-color: black;
+}
+nav{
+    background-color:rgb(219, 144, 193);
+    display: flexbox;
+    border-radius: 10px;
+}
+
+footer{
+    margin:  0 ;
+    border: 10px;
+    box-sizing: border-box;
+    background-color: rgb(255, 154, 226);
+    border-radius: 0.5rem;
+    width: 500px;
+}
